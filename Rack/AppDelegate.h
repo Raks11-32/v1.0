@@ -19,4 +19,6 @@
 
 - (IBAction)SubVentana:(id)sender;
 
+@property (weak) IBOutlet NSTextFieldCell *label;
+@property (weak) IBOutlet NSView *custom;
 @end

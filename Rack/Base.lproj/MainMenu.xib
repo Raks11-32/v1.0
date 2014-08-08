@@ -17,6 +17,11 @@
             </connections>
         </customObject>
         <customObject id="YLy-65-1bz" customClass="NSFontManager"/>
+        <viewController id="McY-Tk-WRP" customClass="labelViewController">
+            <connections>
+                <outlet property="view" destination="EiT-Mj-1SZ" id="MDu-PY-VfO"/>
+            </connections>
+        </viewController>
         <menu title="Main Menu" systemMenu="main" id="AYu-sK-qS6">
             <items>
                 <menuItem title="Rack" id="1Xt-HY-uBw">
@@ -676,17 +681,8 @@
                 <rect key="frame" x="0.0" y="0.0" width="473" height="327"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <textField verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="RIi-aP-BhZ">
-                        <rect key="frame" x="-344" y="277" width="1180" height="44"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" state="on" drawsBackground="YES" id="AlB-sd-dzs">
-                            <font key="font" metaFont="system"/>
-                            <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                            <color key="backgroundColor" white="0.2250819052419355" alpha="0.59999999999999998" colorSpace="calibratedWhite"/>
-                        </textFieldCell>
-                    </textField>
                     <button canDrawConcurrently="YES" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="TBJ-rV-uPi">
-                        <rect key="frame" x="7" y="283" width="32" height="32"/>
+                        <rect key="frame" x="20" y="253" width="32" height="32"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                         <buttonCell key="cell" type="bevel" bezelStyle="rounded" image="plus7" imagePosition="overlaps" alignment="center" lineBreakMode="truncatingHead" truncatesLastVisibleLine="YES" imageScaling="proportionallyDown" inset="2" id="4yS-7m-FyV">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>

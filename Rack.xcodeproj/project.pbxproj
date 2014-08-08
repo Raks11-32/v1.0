@@ -23,6 +23,7 @@
 		52699671198C0F6B00FA7BDA /* SegundaVentana.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52699670198C0F6B00FA7BDA /* SegundaVentana.xib */; };
 		52699673198C25D100FA7BDA /* Green_check.png in Resources */ = {isa = PBXBuildFile; fileRef = 52699672198C25D100FA7BDA /* Green_check.png */; };
 		52699675198C25DB00FA7BDA /* error.png in Resources */ = {isa = PBXBuildFile; fileRef = 52699674198C25DB00FA7BDA /* error.png */; };
+		6102D77719947689009E2FDF /* labelColorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6102D77619947689009E2FDF /* labelColorView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,8 @@
 		52699670198C0F6B00FA7BDA /* SegundaVentana.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SegundaVentana.xib; sourceTree = "<group>"; };
 		52699672198C25D100FA7BDA /* Green_check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Green_check.png; sourceTree = "<group>"; };
 		52699674198C25DB00FA7BDA /* error.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = error.png; sourceTree = "<group>"; };
+		6102D77519947689009E2FDF /* labelColorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = labelColorView.h; sourceTree = "<group>"; };
+		6102D77619947689009E2FDF /* labelColorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = labelColorView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +132,8 @@
 				5238BD23198B23D70034979E /* AppDelegate.h */,
 				5238BD24198B23D70034979E /* AppDelegate.m */,
 				5238BD26198B23D70034979E /* MainMenu.xib */,
+				6102D77519947689009E2FDF /* labelColorView.h */,
+				6102D77619947689009E2FDF /* labelColorView.m */,
 				5238BD29198B23D70034979E /* Images.xcassets */,
 				5238BD18198B23D70034979E /* Supporting Files */,
 				5269966B198BFF4B00FA7BDA /* SecondWindowController.h */,
@@ -274,6 +279,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5269966E198BFF4B00FA7BDA /* SecondWindowController.m in Sources */,
+				6102D77719947689009E2FDF /* labelColorView.m in Sources */,
 				5238BD25198B23D70034979E /* AppDelegate.m in Sources */,
 				5238BD1E198B23D70034979E /* main.m in Sources */,
 			);
