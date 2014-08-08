@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F384E8F0-58D1-49D4-BF9A-81550E6AF102</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Rack</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EEB98E31-B7F8-4884-A857-DB66C8810FA2</key>
+		<string>https://github.com/Raks11-32/v1.0.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Rack.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EEB98E31-B7F8-4884-A857-DB66C8810FA2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Raks11-32/v1.0.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EEB98E31-B7F8-4884-A857-DB66C8810FA2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EEB98E31-B7F8-4884-A857-DB66C8810FA2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>v1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
