@@ -13,7 +13,7 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
-    NSColor *color =[NSColor colorWithDeviceRed:1 green:1 blue:1 alpha:.1];
+    NSColor *color =[NSColor colorWithDeviceRed:0.0f green:0.0f blue:0.0f alpha:0.7f];
     [_window setOpaque:NO];
     [_window setBackgroundColor:color];
     
