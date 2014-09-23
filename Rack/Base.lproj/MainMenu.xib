@@ -675,14 +675,14 @@
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES"/>
             <windowCollectionBehavior key="collectionBehavior" fullScreenPrimary="YES"/>
             <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
-            <rect key="contentRect" x="335" y="390" width="473" height="327"/>
+            <rect key="contentRect" x="335" y="390" width="474" height="327"/>
             <rect key="screenRect" x="0.0" y="0.0" width="1280" height="778"/>
             <view key="contentView" id="EiT-Mj-1SZ">
-                <rect key="frame" x="0.0" y="0.0" width="473" height="327"/>
+                <rect key="frame" x="0.0" y="0.0" width="474" height="327"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
                     <button canDrawConcurrently="YES" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="TBJ-rV-uPi">
-                        <rect key="frame" x="20" y="253" width="32" height="32"/>
+                        <rect key="frame" x="21" y="253" width="32" height="32"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                         <buttonCell key="cell" type="bevel" bezelStyle="rounded" image="plus7" imagePosition="overlaps" alignment="center" lineBreakMode="truncatingHead" truncatesLastVisibleLine="YES" imageScaling="proportionallyDown" inset="2" id="4yS-7m-FyV">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>

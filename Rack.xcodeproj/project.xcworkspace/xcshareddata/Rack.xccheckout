@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>F384E8F0-58D1-49D4-BF9A-81550E6AF102</string>
+	<string>E12FDB08-A378-465B-8526-B84EDF119210</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Rack</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>EEB98E31-B7F8-4884-A857-DB66C8810FA2</key>
-		<string>https://github.com/Raks11-32/v1.0.git</string>
+		<key>38C02558B4E6A30B7E5B8BBEF91F719BC04C9A43</key>
+		<string>https://github.com/Raks11-32/v1.0</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Rack.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>EEB98E31-B7F8-4884-A857-DB66C8810FA2</key>
+		<key>38C02558B4E6A30B7E5B8BBEF91F719BC04C9A43</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Raks11-32/v1.0.git</string>
+	<string>https://github.com/Raks11-32/v1.0</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>EEB98E31-B7F8-4884-A857-DB66C8810FA2</string>
+	<string>38C02558B4E6A30B7E5B8BBEF91F719BC04C9A43</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>EEB98E31-B7F8-4884-A857-DB66C8810FA2</string>
+			<string>38C02558B4E6A30B7E5B8BBEF91F719BC04C9A43</string>
 			<key>IDESourceControlWCCName</key>
 			<string>v1.0</string>
 		</dict>
